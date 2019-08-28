@@ -13,6 +13,9 @@ dependencies:
 - name: jxknative
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jxnodetest
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: jxploreserverless
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
