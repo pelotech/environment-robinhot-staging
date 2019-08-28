@@ -16,6 +16,9 @@ dependencies:
 - name: jxploreserverless
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jxtestit
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: react
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
